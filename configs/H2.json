@@ -1,0 +1,39 @@
+{
+  "case": "H2",
+  "backend": "cosine",
+  "rank": 16,
+  "steps": 3000,
+  "expected_parameters": 2048,
+  "reported_seed42_error": 0.0004163963603787124,
+  "native": {
+    "case": "H2",
+    "mode": "train",
+    "method": "sine_sine",
+    "steps": 3000,
+    "rank": 16,
+    "probe_steps": 2000,
+    "probe_checkpoints": [
+      300,
+      600,
+      900,
+      1200,
+      1500,
+      1800,
+      2000
+    ],
+    "collocation": 2048,
+    "probe_collocation": 512,
+    "physics_validation": 2048,
+    "evaluation": 16384,
+    "eval_every": 100,
+    "seed": 42,
+    "overwrite": false,
+    "smoke": false,
+    "operator": "laplacian(u)+q(x,y)u=f",
+    "variable_coefficient": true,
+    "terms": null,
+    "reference_role": "evaluation_only",
+    "dataloss": false,
+    "lr": 0.003
+  }
+}

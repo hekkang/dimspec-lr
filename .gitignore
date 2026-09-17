@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+runs/
+smoke_runs/
+references/
+*.pt
+*.npz
+*.log
+*.pid
+.env
+.env.*
+validation_report.json

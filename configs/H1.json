@@ -1,0 +1,33 @@
+{
+  "case": "H1",
+  "backend": "curved",
+  "rank": 16,
+  "steps": 3000,
+  "expected_parameters": 4224,
+  "reported_seed42_error": 0.008288740180432796,
+  "native": {
+    "case": "H1",
+    "method": "DimSpec-LR-Fixed",
+    "steps": 3000,
+    "probe_steps": 400,
+    "batch": 2048,
+    "validation": 4096,
+    "evaluation": 16384,
+    "lr": 0.002,
+    "probe_lr": 0.002,
+    "eval_every": 100,
+    "trajectory_reference": false,
+    "seed": 42,
+    "cp_rank": 16,
+    "a1_epsilon": null,
+    "h1_k0": 5.0,
+    "feature_kinds": null,
+    "max_modes": null,
+    "lr_schedule": "cosine",
+    "stage_fraction": 0.4,
+    "stage_lr_ratio": 0.1,
+    "helmholtz_loss": "combined",
+    "overwrite": false,
+    "selected_profile": "rich_mixed"
+  }
+}

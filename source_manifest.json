@@ -1,0 +1,157 @@
+[
+  {
+    "path": "src/dimensionwise_12case/__init__.py",
+    "source_sha256": "3bea9b042f3b94b4007e96ee89d46227d8c73950f913406085c3dd24a44c4b09",
+    "sha256": "3bea9b042f3b94b4007e96ee89d46227d8c73950f913406085c3dd24a44c4b09",
+    "transformation": null
+  },
+  {
+    "path": "src/dimensionwise_12case/cases.py",
+    "source_sha256": "152c95ee6d8cffaa417a262f990b8bd2ace75273b681b15a70dc27330eea7c3a",
+    "sha256": "152c95ee6d8cffaa417a262f990b8bd2ace75273b681b15a70dc27330eea7c3a",
+    "transformation": null
+  },
+  {
+    "path": "src/dimensionwise_12case/model.py",
+    "source_sha256": "26d672b9518fcc7fa4c48bd1157a78f5e5f34898bd008cb6bcbbd07536143a54",
+    "sha256": "26d672b9518fcc7fa4c48bd1157a78f5e5f34898bd008cb6bcbbd07536143a54",
+    "transformation": null
+  },
+  {
+    "path": "src/dimensionwise_12case/baseline_models.py",
+    "source_sha256": "8ec275d9d3d8ba4ae9b0ce47587ae51a326a30001abdd4953622dc94a03aa33a",
+    "sha256": "8ec275d9d3d8ba4ae9b0ce47587ae51a326a30001abdd4953622dc94a03aa33a",
+    "transformation": null
+  },
+  {
+    "path": "src/dimensionwise_12case/train_manufactured.py",
+    "source_sha256": "2849f091246112924b7e379f2ed368eb6b2bd29ed08f4f219c394d660bb8c921",
+    "sha256": "2849f091246112924b7e379f2ed368eb6b2bd29ed08f4f219c394d660bb8c921",
+    "transformation": null
+  },
+  {
+    "path": "src/dimensionwise_12case/train_branch_select_two_level_route.py",
+    "source_sha256": "66638f5b81cbe25e73e5b17dcaf0d30a7f291a1ec229e8265c147cd22f993c9d",
+    "sha256": "66638f5b81cbe25e73e5b17dcaf0d30a7f291a1ec229e8265c147cd22f993c9d",
+    "transformation": null
+  },
+  {
+    "path": "src/dimensionwise_12case/train_helmholtz_hx_audit.py",
+    "source_sha256": "b7b77146fce7f5dec4b0499c6d4a578cb082a95c7433ff8d70103c06b1fa78bf",
+    "sha256": "b7b77146fce7f5dec4b0499c6d4a578cb082a95c7433ff8d70103c06b1fa78bf",
+    "transformation": null
+  },
+  {
+    "path": "src/dimensionwise_12case/train_helmholtz_challenges.py",
+    "source_sha256": "6af5af98d5197fd727530882306c637ee3230625b6f2e68df1839227b21340ab",
+    "sha256": "6af5af98d5197fd727530882306c637ee3230625b6f2e68df1839227b21340ab",
+    "transformation": null
+  },
+  {
+    "path": "src/steady_anisotropic/__init__.py",
+    "source_sha256": "941789746f25afefb88c7e244bfed87c05a4652b24a8baefc065d634801fc157",
+    "sha256": "53e68da5d2befa2c6111d2bcbc668c979295e20d876c5459b168c4e672cb0a4f",
+    "transformation": "Removed blank line at end of file"
+  },
+  {
+    "path": "src/steady_anisotropic/cases.py",
+    "source_sha256": "682dbd3e25d4912d2d93b2c9c9fd606704f5494d44ed16b2531a2a0781f2e435",
+    "sha256": "682dbd3e25d4912d2d93b2c9c9fd606704f5494d44ed16b2531a2a0781f2e435",
+    "transformation": null
+  },
+  {
+    "path": "src/steady_anisotropic/train.py",
+    "source_sha256": "9c4073cfbf1cdfac4f69123a4b1e5a3fd037f7de3669a56d5becf79cfb1822a5",
+    "sha256": "9c4073cfbf1cdfac4f69123a4b1e5a3fd037f7de3669a56d5becf79cfb1822a5",
+    "transformation": null
+  },
+  {
+    "path": "src/stationary_transport/__init__.py",
+    "source_sha256": "530a2cf75d03506e413bf96196008be9fc412518cf61e5ccfb4858a4b487b9a6",
+    "sha256": "a62452ca84629800782ec33208f30772ba7b7f19b1f265510be95b5997284e9d",
+    "transformation": "Removed blank line at end of file"
+  },
+  {
+    "path": "src/stationary_transport/cases.py",
+    "source_sha256": "68e7a538785e366a2d1f28ba80348d0705d806834172beb74848349ae3e5dd90",
+    "sha256": "68e7a538785e366a2d1f28ba80348d0705d806834172beb74848349ae3e5dd90",
+    "transformation": null
+  },
+  {
+    "path": "src/stationary_transport/flexible_branches.py",
+    "source_sha256": "a78f4b0ea659c07e2a3b9bccf07bc365130e7e24fb0086755c77c70d9cf0e090",
+    "sha256": "a78f4b0ea659c07e2a3b9bccf07bc365130e7e24fb0086755c77c70d9cf0e090",
+    "transformation": null
+  },
+  {
+    "path": "src/stationary_transport/train.py",
+    "source_sha256": "ed98159866ce82af74f861b7664849b29e2e0677c1e4b83c1222d36a68d1e1b5",
+    "sha256": "ed98159866ce82af74f861b7664849b29e2e0677c1e4b83c1222d36a68d1e1b5",
+    "transformation": null
+  },
+  {
+    "path": "src/stationary_transport/train_branch_candidates.py",
+    "source_sha256": "b54d7cf3de12400575f2b7a5189ae53fc565ae1e42b2d7b23e7902f0e7b83237",
+    "sha256": "b54d7cf3de12400575f2b7a5189ae53fc565ae1e42b2d7b23e7902f0e7b83237",
+    "transformation": null
+  },
+  {
+    "path": "src/stationary_transport/reference.py",
+    "source_sha256": "44648609cdcd50fe2029be8e98049ad8fb3e4c7b86b7826455c3cd80f34e61a3",
+    "sha256": "44648609cdcd50fe2029be8e98049ad8fb3e4c7b86b7826455c3cd80f34e61a3",
+    "transformation": null
+  },
+  {
+    "path": "src/antialignment_benchmarks/__init__.py",
+    "source_sha256": "b34435c2fdbff3cf679a6554ff90cfa35ac0d8b9beeb1f51a6ff6a60296c217a",
+    "sha256": "b34435c2fdbff3cf679a6554ff90cfa35ac0d8b9beeb1f51a6ff6a60296c217a",
+    "transformation": null
+  },
+  {
+    "path": "src/antialignment_benchmarks/cases.py",
+    "source_sha256": "7b9e34b4670c55a9494b4b1a2c4312905c598d4e59cc36677474a156b21e5316",
+    "sha256": "7b9e34b4670c55a9494b4b1a2c4312905c598d4e59cc36677474a156b21e5316",
+    "transformation": null
+  },
+  {
+    "path": "src/common/__init__.py",
+    "source_sha256": "8c8628bf6d5c3e7b4b9f5bc7e4f08b2bfb283de0d9595ed3a9874fa4c96b547a",
+    "sha256": "8c8628bf6d5c3e7b4b9f5bc7e4f08b2bfb283de0d9595ed3a9874fa4c96b547a",
+    "transformation": null
+  },
+  {
+    "path": "src/common/residual_jacobian_bank.py",
+    "source_sha256": "e46e90c4e3d4f9cde30830e18294ddd802dcffa36f6722555a2e3d443e61a40a",
+    "sha256": "e46e90c4e3d4f9cde30830e18294ddd802dcffa36f6722555a2e3d443e61a40a",
+    "transformation": null
+  },
+  {
+    "path": "src/common/two_level_capacity_routing.py",
+    "source_sha256": "65a79796e6d49ef7a96c81694085293eb8b7f8ae85740449e1a9e0e578ec372e",
+    "sha256": "7bd991291c5ef1ccc642ce7661f8a8fc2ea6ade07cac49bcfb0e88d6ee2e747f",
+    "transformation": "Import standalone generic gate; no transport/slowing-down dependency"
+  },
+  {
+    "path": "src/train_static_branch_select_two_level_route.py",
+    "source_sha256": "0118813d066c2ba15dff132cc2cbc1b34d1336eb65eaa332dd1ec1f5aae9c2ce",
+    "sha256": "0118813d066c2ba15dff132cc2cbc1b34d1336eb65eaa332dd1ec1f5aae9c2ce",
+    "transformation": null
+  },
+  {
+    "path": "scripts/train_antialignment_replacement.py",
+    "source_sha256": "7fed2495c740ed74950a5d01169d7cd06f48275e53c7d9a74d12959d4407a319",
+    "sha256": "7fed2495c740ed74950a5d01169d7cd06f48275e53c7d9a74d12959d4407a319",
+    "transformation": null
+  },
+  {
+    "path": "scripts/generate_antialignment_references.py",
+    "source_sha256": "f9a9a256cb38eb60baee5507b661db28cfbd385d5b78004bf4b28cf52ee72584",
+    "sha256": "f9a9a256cb38eb60baee5507b661db28cfbd385d5b78004bf4b28cf52ee72584",
+    "transformation": null
+  },
+  {
+    "path": "src/common/step_locked_gate.py",
+    "sha256": "e83286d4c4c2349c2afa088dec39444e4662da93ead6dd05e0a439e38623472d",
+    "transformation": "Standalone generic gate class; fixed runs keep all gates open"
+  }
+]

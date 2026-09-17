@@ -1,0 +1,26 @@
+{
+  "case": "S2",
+  "backend": "transport",
+  "rank": 16,
+  "steps": 3000,
+  "expected_parameters": 36128,
+  "reported_seed42_error": 0.00660077715292573,
+  "native": {
+    "case": "S2",
+    "cp_rank": 16,
+    "fixed_family": "modified_mlp",
+    "width": 64,
+    "depth": 4,
+    "refine_steps": 3000,
+    "refine_lr": 0.002,
+    "scheduler_min_factor": 0.05,
+    "batch_x": 64,
+    "validation_x": 128,
+    "quadrature_order": 32,
+    "interface_fraction": 0.25,
+    "interface_width": 0.02,
+    "boundary_weight": 10.0,
+    "grad_clip": 10.0,
+    "eval_every": 100
+  }
+}
